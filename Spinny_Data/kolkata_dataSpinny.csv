@@ -1,0 +1,341 @@
+score,make,model,variant,year,transmissionType,fuelType,ownership,emi,odometer
+925000.0,Hyundai,Verna,SX Opt Petrol,2021,manual,petrol,1,15752.0,61426
+354000.0,Volkswagen,Cross Polo,1.2 MPI,2015,manual,petrol,1,6040.0,91023
+1096000.0,Volkswagen,Virtus,Highline 1.0 TSI MT,2023,manual,petrol,1,18664.0,25164
+630000.0,Maruti Suzuki,Baleno,Zeta,2021,manual,petrol,1,10728.0,27720
+857000.0,Hyundai,New i20,Asta (O) 1.0 Turbo DCT,2021,automatic,petrol,1,14594.0,25654
+458000.0,Maruti Suzuki,Swift Dzire,ZXI,2017,manual,petrol,1,7799.0,35846
+745000.0,Hyundai,New i20,Asta (O) 1.2 MT,2021,manual,petrol,1,12686.0,35135
+396000.0,Maruti Suzuki,Alto 800,VXi,2022,manual,petrol,1,7077.0,4235
+809000.0,Mahindra,XUV 300,W8 (O) Diesel,2020,manual,diesel,1,13776.0,86223
+983000.0,Honda,City,ZX Petrol,2021,manual,petrol,1,16739.0,26244
+933000.0,Kia,Seltos,HTK Plus G,2020,manual,petrol,1,15888.0,26180
+868000.0,Mahindra,XUV 300,W8 (O) Petrol,2021,manual,petrol,1,14781.0,20238
+540000.0,Maruti Suzuki,Swift,VXI,2021,manual,petrol,1,9195.0,20409
+911000.0,Maruti Suzuki,Ciaz,Zeta Petrol,2024,manual,petrol,1,15513.0,14048
+855000.0,Maruti Suzuki,Ciaz,Zeta AT Petrol,2022,automatic,petrol,1,14560.0,30160
+697000.0,Hyundai,Venue,SX(O) 1.5 CRDI,2020,manual,diesel,1,11869.0,77657
+442000.0,Hyundai,Elite i20,Asta 1.2,2015,manual,petrol,1,8045.0,48440
+462000.0,Volkswagen,Polo,Comfortline 1.0L (P),2018,manual,petrol,1,7375.0,40528
+1145198.0,Kia,Sonet,GTX Plus 1.5 AT,2022,automatic,diesel,1,19502.0,51075
+617000.0,Hyundai,Grand i10 Nios,Asta 1.2 Kappa VTVT,2022,manual,petrol,1,10507.0,39836
+849000.0,Hyundai,Creta,EX Petrol,2021,manual,petrol,1,14457.0,50347
+497000.0,Renault,Duster,85 PS RXS MT,2017,manual,diesel,1,8463.0,69000
+997000.0,Kia,Seltos,HTX IVT G,2021,automatic,petrol,2,16978.0,39809
+939000.0,Kia,Sonet,GTX Plus 1.0 DCT,2021,automatic,petrol,1,15990.0,65723
+649000.0,Hyundai,New i20,Asta 1.0 Turbo IMT,2020,manual,petrol,2,11052.0,26613
+685000.0,Hyundai,Grand i10 Nios,Asta U2 1.2 CRDI,2020,manual,diesel,1,11665.0,13989
+801000.0,Hyundai,Venue,SX 1.0  Turbo iMT,2021,manual,petrol,1,13640.0,39086
+545000.0,Hyundai,Aura,SX 1.2 (O) Petrol,2020,manual,petrol,1,9281.0,58640
+739000.0,Maruti Suzuki,S-Cross,Alpha,2021,manual,petrol,1,12584.0,76549
+415000.0,Hyundai,New Santro 1.1,Sportz MT,2021,manual,petrol,1,6625.0,40672
+561000.0,Tata,Tiago,Revotron XZ Plus,2023,manual,petrol,1,9553.0,39459
+424000.0,Maruti Suzuki,S-Presso,VXI Plus,2021,manual,petrol,1,7220.0,12259
+661000.0,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT CNG,2022,manual,petrol+cng,1,11256.0,9966
+398000.0,Maruti Suzuki,Alto 800,VXi,2023,manual,petrol,1,7113.0,8946
+580000.0,Renault,Kiger,RXZ MT,2022,manual,petrol,1,9877.0,59408
+496000.0,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,2020,manual,petrol,1,8446.0,37308
+438000.0,Hyundai,New Santro 1.1,Asta MT,2021,manual,petrol,1,6992.0,29930
+417000.0,Hyundai,New Santro 1.1,Sportz MT,2021,manual,petrol,1,6657.0,37201
+878000.0,Hyundai,New i20,Asta (O) 1.2 IVT,2022,automatic,petrol,1,14951.0,5792
+1424000.0,Skoda,Slavia,Style 1.5L TSI AT,2022,automatic,petrol,1,24249.0,11078
+668000.0,Maruti Suzuki,Ciaz,Alpha Petrol,2020,manual,petrol,1,11375.0,66796
+804000.0,Nissan,Magnite,XV Premium Turbo CVT (O),2021,automatic,petrol,1,13691.0,34412
+409000.0,Maruti Suzuki,Baleno,Delta 1.2,2016,manual,petrol,1,6965.0,58333
+789000.0,Maruti Suzuki,Baleno,Alpha AMT Petrol,2022,automatic,petrol,2,13436.0,27121
+312000.0,Maruti Suzuki,Alto K10,VXi,2019,manual,petrol,2,5313.0,13884
+504000.0,Honda,City,SV,2017,manual,petrol,1,8582.0,32473
+625000.0,Hyundai,Aura,SX 1.2 (O) Petrol,2022,manual,petrol,1,10643.0,43580
+897000.0,Mahindra,XUV 300,1.2L W8(O) AMT BS6 PH2,2023,automatic,petrol,2,15275.0,4537
+797000.0,Kia,Seltos,HTK D,2020,manual,diesel,1,13572.0,73352
+878000.0,Hyundai,New i20,Asta 1.0 Turbo DCT,2022,automatic,petrol,1,14951.0,14661
+182000.0,Chevrolet,Beat,PS Petrol,2013,manual,petrol,1,,24629
+1002076.0,Kia,Sonet,GTX Plus 1.0 iMT,2022,manual,petrol,1,17064.0,12861
+655000.0,Maruti Suzuki,Ciaz,Delta Petrol,2020,manual,petrol,1,11154.0,33042
+617000.0,Hyundai,Aura,SX 1.2 (O) Petrol,2021,manual,petrol,1,10507.0,23838
+729000.0,Hyundai,New i20,Sportz 1.2 IVT,2022,automatic,petrol,1,12414.0,24230
+412000.0,Hyundai,Elite i20,Sportz 1.2 (O),2015,manual,petrol,1,7499.0,14764
+938000.0,Kia,Seltos,HTK Plus G,2021,manual,petrol,1,15973.0,55545
+298000.0,Maruti Suzuki,Alto K10,VXI AMT (Airbag),2016,automatic,petrol,1,5074.0,34239
+766000.0,Maruti Suzuki,Swift,ZXI Plus,2023,manual,petrol,1,13044.0,11815
+395000.0,Hyundai,Elite i20,Sportz 1.2,2015,manual,petrol,1,7189.0,37407
+391000.0,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,2017,manual,petrol,1,6658.0,42991
+1342193.0,Kia,Carens,Luxury Plus 1.5 Diesel 7 STR,2022,manual,diesel,2,22856.0,40910
+458000.0,Maruti Suzuki,Wagon R 1.0,VXI,2021,manual,petrol,1,8185.0,34003
+389000.0,Hyundai,New Santro 1.1,Sportz MT,2020,manual,petrol,1,6210.0,33024
+499000.0,Maruti Suzuki,Celerio,ZXI,2022,manual,petrol,1,8497.0,7716
+238000.0,Hyundai,Eon,Sportz,2016,manual,petrol,1,3799.0,56915
+661000.0,Renault,Kiger,RXZ MT,2022,manual,petrol,1,11256.0,19433
+629000.0,Hyundai,Aura,SX Plus 1.2 AMT Petrol,2020,automatic,petrol,1,10711.0,9959
+457000.0,Maruti Suzuki,Baleno,Zeta 1.2,2017,manual,petrol,1,7782.0,53091
+419000.0,Maruti Suzuki,Celerio X,VXI,2020,manual,petrol,1,7020.0,18519
+235000.0,Maruti Suzuki,Alto 800,VXi,2016,manual,petrol,1,4200.0,49094
+439000.0,Tata,Tiago,Revotron XT,2020,manual,petrol,1,7475.0,20157
+1179485.0,Honda,Civic,ZX MT Diesel,2019,manual,diesel,1,20085.0,71562
+849000.0,Toyota,Urban Cruiser,High Grade MT,2022,manual,petrol,1,14457.0,10117
+565000.0,Maruti Suzuki,Baleno,Zeta AT Petrol,2018,automatic,petrol,1,9621.0,24714
+768000.0,Renault,Duster,RXZ Petrol,2021,manual,petrol,1,13078.0,26526
+256000.0,Maruti Suzuki,Wagon R 1.0,VXI,2013,manual,petrol,1,7099.0,48069
+554000.0,Renault,Duster,110 PS RXZ 4X2 AMT,2018,automatic,diesel,1,9434.0,90205
+385000.0,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,2017,manual,petrol,1,6556.0,97419
+316000.0,Honda,Jazz,V Petrol,2015,manual,petrol,2,5392.0,75104
+812000.0,Maruti Suzuki,Baleno,Alpha AMT Petrol,2022,automatic,petrol,1,13827.0,15476
+638000.0,Tata,Nexon,XZA Plus Dual Tone Roof AMT Diesel,2018,automatic,diesel,1,10864.0,77494
+358000.0,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,2015,manual,petrol,1,6516.0,24759
+437000.0,Maruti Suzuki,Wagon R 1.0,VXI,2020,manual,petrol,1,7810.0,26488
+455000.0,Volkswagen,Polo,Trendline 1.0 (P),2020,manual,petrol,1,7264.0,50062
+209000.0,Maruti Suzuki,Alto 800,Lxi,2015,manual,petrol,1,3977.0,32466
+567000.0,Skoda,Rapid New,Style Petrol AT,2016,automatic,petrol,1,9655.0,66596
+568000.0,Maruti Suzuki,Baleno,Zeta,2021,manual,petrol,2,9672.0,30165
+668000.0,Maruti Suzuki,Baleno,Zeta Petrol,2023,manual,petrol,1,11375.0,41948
+959000.0,Skoda,Kushaq,Ambition 1.0L TSI MT,2021,manual,petrol,1,16331.0,17236
+1231048.0,Hyundai,Creta,SX OPT Turbo DCT Dual Tone Petrol,2020,automatic,petrol,1,20964.0,59702
+562000.0,Hyundai,Grand i10 Nios,Asta 1.2 Kappa VTVT,2020,manual,petrol,1,9570.0,34752
+506000.0,Maruti Suzuki,Wagon R 1.0,LXI CNG,2022,manual,petrol+cng,1,8616.0,25575
+285000.0,Maruti Suzuki,Alto 800,LXi,2019,manual,petrol,1,5093.0,28826
+768000.0,Hyundai,Venue,SX 1.0  Turbo iMT,2021,manual,petrol,1,13078.0,36772
+478000.0,Maruti Suzuki,Wagon R 1.0,VXI,2021,manual,petrol,1,8543.0,12261
+624000.0,Ford,Freestyle,Titanium Plus 1.5 TDCI,2021,manual,diesel,1,10626.0,57608
+250000.0,Maruti Suzuki,Wagon R 1.0,LXI,2015,manual,petrol,1,4757.0,80761
+342000.0,Maruti Suzuki,Wagon R 1.0,VXI,2018,manual,petrol,1,6112.0,60733
+312000.0,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,2016,manual,petrol,1,5313.0,95187
+283000.0,Maruti Suzuki,Alto K10,VXi,2016,manual,petrol,1,4819.0,33698
+399000.0,Hyundai,Elite i20,Sportz 1.2,2017,manual,petrol,1,6794.0,98328
+404000.0,Renault,Kwid,1.0 RXT Opt,2022,manual,petrol,1,6879.0,21301
+405000.0,Hyundai,Xcent,SX (O),2019,manual,petrol,3,6465.0,42964
+903000.0,Kia,Sonet,HTX Plus 1.0 iMT,2021,manual,petrol,1,15377.0,35995
+768000.0,Maruti Suzuki,Dzire,ZXI AMT,2023,automatic,petrol,1,13078.0,10292
+667000.0,Maruti Suzuki,S-Cross,Zeta,2020,manual,petrol,1,11358.0,96786
+569000.0,Maruti Suzuki,Ciaz,Alpha 1.4 MT,2018,manual,petrol,1,9689.0,74293
+661000.0,Skoda,Rapid New,Style Petrol AT,2018,automatic,petrol,1,11256.0,36657
+457000.0,Hyundai,Elite i20,Sportz 1.2,2018,manual,petrol,2,7782.0,26080
+398000.0,Hyundai,Elite i20,Sportz 1.2,2015,manual,petrol,1,7244.0,33923
+484000.0,Maruti Suzuki,Wagon R 1.2,ZXI,2020,manual,petrol,1,8242.0,8072
+537000.0,Tata,Tiago,Revotron XZ Plus,2021,manual,petrol,1,9144.0,17760
+327000.0,Maruti Suzuki,Alto 800,VXi,2020,manual,petrol,1,5844.0,32429
+689000.0,Honda,Amaze,1.2 VX i-VTEC,2021,manual,petrol,1,11733.0,9812
+386000.0,Honda,Jazz,VX Petrol,2016,manual,petrol,1,6162.0,53554
+233000.0,Maruti Suzuki,Alto 800,Lxi,2015,manual,petrol,1,4434.0,10999
+241000.0,Maruti Suzuki,Wagon R 1.0,LXI,2013,manual,petrol,1,6683.0,39880
+541000.0,Tata,Tiago,XZA Plus Dual Tone Roof AMT,2021,automatic,petrol,1,9212.0,78706
+904000.0,Volkswagen,Vento,Highline Plus 1.0L TSI Petrol AT,2021,automatic,petrol,1,14432.0,11726
+489000.0,Hyundai,Elite i20,Sportz Plus 1.2,2020,manual,petrol,1,8327.0,71332
+285000.0,Maruti Suzuki,Wagon R 1.0,VXI,2017,manual,petrol,3,5093.0,18615
+374000.0,Maruti Suzuki,Alto 800,Vxi Plus,2021,manual,petrol,1,6684.0,11491
+342000.0,Maruti Suzuki,Alto 800,Vxi Plus,2020,manual,petrol,1,6112.0,9478
+399000.0,Maruti Suzuki,S-Presso,VXI Plus AMT,2020,automatic,petrol,1,6794.0,29349
+317000.0,Maruti Suzuki,Alto K10,VXi,2017,manual,petrol,1,5398.0,28778
+579000.0,Maruti Suzuki,Dzire,VXI,2021,manual,petrol,1,9860.0,28371
+408000.0,Maruti Suzuki,Swift Dzire,ZXI,2015,manual,petrol,1,7426.0,38891
+299000.0,Maruti Suzuki,Alto K10,VXI AMT (O),2018,automatic,petrol,1,5091.0,81201
+231000.0,Maruti Suzuki,Alto K10,LXi,2016,manual,petrol,2,3933.0,46374
+526000.0,Maruti Suzuki,Ciaz,Delta 1.4 AT,2017,automatic,petrol,1,8957.0,22330
+359000.0,Mahindra,KUV100 NXT,K8 D 6 STR,2017,manual,diesel,2,6113.0,60148
+257000.0,Maruti Suzuki,Alto K10,LXi,2016,manual,petrol,1,4376.0,30368
+523000.0,Tata,Tiago,Revotron XZA AMT,2020,automatic,petrol,1,8906.0,27722
+209000.0,Datsun,Redi-GO,T,2016,manual,petrol,1,14933.0,23419
+416000.0,Renault,Kwid,1.0 RXT Opt,2022,manual,petrol,1,7084.0,8578
+295000.0,Maruti Suzuki,Swift,VXI,2013,manual,petrol,1,7951.0,34737
+1694585.0,Mahindra,XUV700,AX 7 Petrol AT 7 STR,2022,automatic,petrol,1,28857.0,51067
+619000.0,Tata,Tiago,Revotron XZ Plus CNG,2022,manual,petrol+cng,1,10541.0,32984
+379000.0,Renault,Kwid,1.0 RXT Opt,2021,manual,petrol,1,6454.0,39905
+458000.0,Hyundai,Elite i20,Asta 1.2 (O),2018,manual,petrol,1,7799.0,90925
+326000.0,Maruti Suzuki,Wagon R 1.0,VXI,2018,manual,petrol,2,5826.0,52607
+332000.0,Mahindra,KUV100 NXT,K2 6 STR,2018,manual,petrol,1,5653.0,14203
+537000.0,Hyundai,Elite i20,Sportz Plus 1.2,2019,manual,petrol,1,9144.0,14460
+389000.0,Volkswagen,Ameo,Comfortline Plus 1.5 (D),2017,manual,diesel,1,6210.0,52535
+218000.0,Hyundai,Eon,Magna +,2017,manual,petrol,1,3480.0,103747
+376000.0,Maruti Suzuki,Alto K10,LXI,2022,manual,petrol,1,6403.0,28449
+220000.0,Datsun,Redi-GO,T(O) 1.0,2017,manual,petrol,2,8367.0,34823
+557000.0,Hyundai,Elite i20,Sportz Plus 1.2,2020,manual,petrol,1,9485.0,29087
+390000.0,Maruti Suzuki,Swift,ZXI,2016,manual,petrol,1,6641.0,67311
+705000.0,Nissan,Magnite,XV Premium Turbo CVT,2021,automatic,petrol,2,12005.0,33265
+583000.0,Honda,WR-V,i-VTEC SV,2020,manual,petrol,1,9928.0,29227
+578000.0,Maruti Suzuki,Baleno,Alpha,2020,manual,petrol,2,9843.0,20524
+527000.0,Ford,Figo Aspire,Titanium Plus 1.2 Ti-VCT,2020,manual,petrol,1,8413.0,16727
+721000.0,Maruti Suzuki,Vitara Brezza,ZXi Plus,2020,manual,petrol,1,12278.0,44514
+185000.0,Maruti Suzuki,Estilo,VXI,2012,manual,petrol,1,7036.0,44073
+668000.0,Honda,Jazz,ZX CVT,2021,automatic,petrol,2,10664.0,24529
+341000.0,Maruti Suzuki,Swift,VXI,2016,manual,petrol,1,5807.0,74151
+1093000.0,Volkswagen,Taigun,Topline 1.0 TSI MT,2021,manual,petrol,1,18613.0,31302
+732000.0,Maruti Suzuki,Ciaz,Delta AT Petrol,2021,automatic,petrol,1,12465.0,23852
+440000.0,Tata,Tiago,Revotron XT,2020,manual,petrol,1,7492.0,17606
+349000.0,Hyundai,New Santro 1.1,Magna,2019,manual,petrol,1,5571.0,44429
+380000.0,Renault,Kwid,1.0 RXT AMT SCE,2020,automatic,petrol,1,6471.0,28896
+496000.0,Maruti Suzuki,Celerio,ZXI Plus,2022,manual,petrol,1,8446.0,22006
+229000.0,Maruti Suzuki,Swift,VXI,2011,manual,petrol,2,16362.0,66153
+379000.0,Maruti Suzuki,Swift Dzire,ZDI,2013,manual,diesel,1,10216.0,56067
+494000.0,Renault,Triber,RXZ,2020,manual,petrol,1,8412.0,84526
+713000.0,Honda,Amaze,1.2 VX CVT i-VTEC,2021,automatic,petrol,1,12141.0,24949
+532000.0,Skoda,Rapid New,Style Petrol AT,2017,automatic,petrol,1,9059.0,73268
+408000.0,Maruti Suzuki,Celerio,VXI AMT,2020,automatic,petrol,1,6948.0,45959
+669000.0,Tata,Altroz,XZ Plus 1.5,2022,manual,diesel,1,11392.0,72750
+276000.0,Renault,Kwid,1.0 RXT AMT,2016,automatic,petrol,1,4700.0,28360
+205000.0,Maruti Suzuki,Swift,LXI,2010,manual,petrol,1,,43023
+194000.0,Datsun,Redi-GO,S,2017,manual,petrol,2,7378.0,44817
+416000.0,Renault,Kwid,1.0 RXT SCE,2022,manual,petrol,1,7084.0,7156
+564000.0,Maruti Suzuki,Ignis,Delta MT Petrol,2023,manual,petrol,1,9604.0,7769
+483000.0,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,2020,manual,petrol,1,8225.0,43028
+769000.0,Kia,Sonet,GTX Plus 1.0 iMT,2020,manual,petrol,1,13095.0,92832
+626000.0,Maruti Suzuki,Ciaz,Alpha Petrol,2019,manual,petrol,1,10660.0,71276
+483000.0,Tata,Tiago NRG,XZ,2022,manual,petrol,1,8225.0,97034
+1095708.0,Kia,Carens,Prestige Plus 1.4 Petrol 7 STR,2022,manual,petrol,1,18659.0,25493
+1115971.0,Volkswagen,Taigun,Highline 1.0 TSI AT,2022,automatic,petrol,1,19004.0,26825
+628000.0,Renault,Kiger,RXZ 1.0 Turbo MT,2021,manual,petrol,1,10694.0,35770
+828000.0,Maruti Suzuki,Ciaz,Zeta AT Petrol,2022,automatic,petrol,1,14100.0,15717
+548000.0,Ford,EcoSport,Titanium 1.5L Ti-VCT,2018,manual,petrol,1,9332.0,65332
+214000.0,Datsun,Redi-GO,T (O),2018,manual,petrol,2,5768.0,44895
+697000.0,Tata,Altroz,XZ 1.5,2021,manual,diesel,1,11869.0,41435
+578000.0,Honda,Amaze,1.2 VX i-VTEC,2020,manual,petrol,1,9843.0,39407
+690000.0,Honda,Amaze,1.2 VX i-VTEC,2021,manual,petrol,1,11750.0,20423
+378000.0,Tata,Tiago,Revotron XZA AMT,2017,automatic,petrol,1,6437.0,31282
+1532000.0,MG Motors,Hector,2.0 Sharp Diesel Turbo,2022,manual,diesel,1,26089.0,36518
+540000.0,Renault,Triber,RXZ,2020,manual,petrol,1,9195.0,45762
+1198029.0,Volkswagen,Taigun,Topline 1.0 TSI AT,2021,automatic,petrol,1,20401.0,31330
+647000.0,Tata,Altroz,XZ 1.5,2020,manual,diesel,1,11018.0,53416
+391000.0,Renault,Kwid,1.0 RXT Opt,2021,manual,petrol,1,6658.0,16428
+336000.0,Maruti Suzuki,Alto 800,VXi,2021,manual,petrol,1,6005.0,28743
+779000.0,Maruti Suzuki,Dzire,ZXI Plus AMT,2023,automatic,petrol,1,13265.0,19967
+795000.0,Renault,Kiger,RXT Turbo CVT,2022,automatic,petrol,1,13538.0,10088
+747000.0,Renault,Duster,RXZ Turbo Petrol,2021,manual,petrol,1,12720.0,47359
+474000.0,Maruti Suzuki,S-Presso,VXI Opt CNG,2022,manual,petrol+cng,1,8071.0,16143
+205000.0,Hyundai,Eon,Magna +,2015,manual,petrol,2,3498.0,48643
+184000.0,Chevrolet,Beat,LT Petrol,2015,manual,petrol,1,,62068
+1113955.0,MG Motors,Hector,1.5 Sharp DCT,2020,automatic,petrol,1,18970.0,66686
+1280492.0,MG Motors,Hector Plus,Sharp 2.0 Diesel Turbo MT 6-STR,2020,manual,diesel,1,21806.0,62105
+321000.0,Honda,City,S,2015,manual,petrol,1,5842.0,97682
+708000.0,Maruti Suzuki,Dzire,ZXI Plus AMT,2022,automatic,petrol,1,12056.0,30037
+730000.0,Hyundai,Venue,SX 1.0  Turbo,2020,manual,petrol,1,12431.0,32228
+362000.0,Maruti Suzuki,S-Presso,VXI Plus,2020,manual,petrol,1,6164.0,35015
+355000.0,Maruti Suzuki,Alto 800,LXi (O),2022,manual,petrol,1,6344.0,17241
+459000.0,Hyundai,Elite i20,Sportz 1.2,2017,manual,petrol,1,7816.0,12752
+1014000.0,Kia,Seltos,HTX G,2021,manual,petrol,1,17267.0,35674
+413000.0,Maruti Suzuki,Swift,ZXI,2017,manual,petrol,2,7033.0,43362
+306000.0,Hyundai,Grand i10,Magna 1.2 Kappa VTVT,2015,manual,petrol,1,5569.0,41966
+1332000.0,Skoda,Slavia,Style 1.5L TSI MT,2022,manual,petrol,1,22683.0,2943
+667000.0,Hyundai,Venue,SX 1.0  Turbo,2021,manual,petrol,2,11358.0,51066
+632000.0,Honda,City,ZX CVT,2017,automatic,petrol,2,10762.0,35330
+300000.0,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,2015,manual,petrol,2,5460.0,46884
+1242029.0,Skoda,Kushaq,Style 1.0L TSI MT,2022,manual,petrol,1,21151.0,22027
+477000.0,Maruti Suzuki,Ignis,Zeta MT Petrol,2020,manual,petrol,1,8123.0,29416
+807000.0,Hyundai,Verna,1.6 VTVT SX + AT,2019,automatic,petrol,1,13742.0,32822
+179000.0,Maruti Suzuki,Estilo,LXI,2012,manual,petrol,1,6807.0,25919
+322000.0,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,2015,manual,petrol,1,5861.0,29241
+701000.0,Hyundai,Venue,SX 1.0  Turbo iMT,2021,manual,petrol,3,11937.0,18422
+208000.0,Hyundai,Eon,Era +,2015,manual,petrol,1,3549.0,32989
+181000.0,Maruti Suzuki,Alto K10,VXi,2011,manual,petrol,1,12933.0,52395
+488000.0,Maruti Suzuki,Baleno,Zeta 1.2,2018,manual,petrol,1,8310.0,42009
+859000.0,Maruti Suzuki,Vitara Brezza,ZXi Plus,2022,manual,petrol,1,14628.0,15030
+397000.0,Maruti Suzuki,S-Presso,VXI Plus,2021,manual,petrol,1,6760.0,29917
+495000.0,Tata,Tiago,Revotron XT,2022,manual,petrol,1,8429.0,15897
+932000.0,Kia,Seltos,HTK Plus D,2021,manual,diesel,1,15871.0,63985
+455000.0,Hyundai,New Santro 1.1,Asta MT,2021,manual,petrol,1,7264.0,8062
+239000.0,Hyundai,i10,Sportz 1.1 Petrol,2014,manual,petrol,1,5129.0,97160
+360000.0,Maruti Suzuki,Swift Dzire,VXI,2014,manual,petrol,1,7726.0,34722
+853000.0,Hyundai,New i20,Asta (O) 1.2 MT,2023,manual,petrol,1,14526.0,8571
+688000.0,Maruti Suzuki,Ciaz,Delta Petrol,2021,manual,petrol,1,11716.0,20339
+368000.0,Hyundai,New Santro 1.1,Asta MT,2019,manual,petrol,1,5875.0,124757
+891000.0,Tata,Nexon,XZ Plus Petrol,2023,manual,petrol,1,15173.0,18701
+224000.0,Maruti Suzuki,A-Star,VXI (ABS) AT,2011,automatic,petrol,1,15005.0,55747
+627000.0,Hyundai,Aura,SX Plus 1.0 Petrol,2020,manual,petrol,1,10677.0,23195
+447000.0,Ford,Freestyle,Titanium 1.5 TDCI,2018,manual,diesel,1,9593.0,101342
+226000.0,Honda,Jazz,E MT,2015,manual,petrol,2,3856.0,94753
+670000.0,Nissan,Magnite,XV Premium Turbo (O) Dual Tone,2021,manual,petrol,2,11409.0,19155
+875000.0,Hyundai,Venue,SX 1.2 Petrol,2022,manual,petrol,1,14900.0,27725
+556000.0,Maruti Suzuki,Swift,VXI,2022,manual,petrol,1,9468.0,35818
+273000.0,Maruti Suzuki,Wagon R 1.0,VXI,2014,manual,petrol,1,6078.0,56879
+190000.0,Maruti Suzuki,A-Star,VXI,2011,manual,petrol,2,12727.0,50338
+282000.0,Maruti Suzuki,Alto 800,LXi,2020,manual,petrol,1,5040.0,20716
+398000.0,Maruti Suzuki,S-Presso,VXI (O),2022,manual,petrol,1,6777.0,21246
+801000.0,Tata,Altroz,XZ Plus 1.5 Dark Edition,2022,manual,diesel,1,13640.0,11796
+309000.0,Maruti Suzuki,Alto 800,LXi,2021,manual,petrol,1,5522.0,32221
+763000.0,Kia,Sonet,GTX Plus 1.0 iMT,2020,manual,petrol,1,12993.0,48060
+392000.0,Maruti Suzuki,Wagon R 1.0,VXI AMT,2018,automatic,petrol,1,7006.0,23630
+861000.0,Maruti Suzuki,S-Cross,Alpha,2022,manual,petrol,1,14662.0,26148
+698000.0,Ford,EcoSport,Titanium 1.5L TDCi,2021,manual,diesel,1,11886.0,46797
+246000.0,Maruti Suzuki,Alto 800,LXi,2018,manual,petrol,1,4396.0,56152
+378000.0,Maruti Suzuki,Swift,VXI,2016,manual,petrol,1,6437.0,20433
+316000.0,Maruti Suzuki,S-Presso,VXI,2020,manual,petrol,1,5381.0,77584
+298000.0,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,2015,manual,petrol,2,5424.0,53523
+868000.0,Hyundai,Verna,SX Opt Petrol,2020,manual,petrol,1,14781.0,96692
+428000.0,Maruti Suzuki,Baleno,Alpha 1.3,2016,manual,diesel,1,7288.0,84633
+751000.0,Hyundai,New i20,Asta 1.0 Turbo IMT,2021,manual,petrol,1,12789.0,33536
+368000.0,Hyundai,Grand i10,sportz (o) 1.2 U2 CRDi Diesel,2017,manual,diesel,2,6266.0,68882
+375000.0,Renault,Duster,85 PS RxL Diesel,2015,manual,diesel,1,6825.0,93728
+479000.0,Maruti Suzuki,Wagon R 1.0,LXI CNG,2021,manual,petrol+cng,1,8157.0,40125
+686000.0,Tata,Altroz,XZ Plus 1.2,2021,manual,petrol,1,11682.0,19789
+415000.0,Hyundai,New Santro 1.1,Asta MT,2021,manual,petrol,1,6625.0,57510
+312000.0,Hyundai,Grand i10,Magna 1.2 Kappa VTVT,2016,manual,petrol,1,5313.0,53625
+715000.0,Renault,Kiger,RXZ Turbo CVT,2021,automatic,petrol,1,14457.0,40069
+815000.0,Mahindra,XUV 300,W8 (O) Diesel,2020,manual,diesel,1,13878.0,67696
+727000.0,Hyundai,Venue,SX Plus 1.0 Turbo DCT,2019,automatic,petrol,1,12380.0,32556
+556000.0,Volkswagen,Polo,Comfortline 1.0L (P),2021,manual,petrol,2,8876.0,34853
+198000.0,Maruti Suzuki,Swift,VXI,2011,manual,petrol,2,14147.0,86920
+723000.0,Honda,Amaze,1.2 VX i-VTEC,2022,manual,petrol,1,12312.0,12729
+234000.0,Maruti Suzuki,Alto K10,VXi (O),2015,manual,petrol,1,4259.0,68639
+403000.0,Maruti Suzuki,Swift,VXI,2017,manual,petrol,1,6862.0,23305
+930000.0,Honda,City,VX Diesel,2020,manual,diesel,1,15837.0,52661
+225000.0,Hyundai,Eon,Era + SE,2017,manual,petrol,1,3592.0,47731
+1145000.0,Kia,Seltos,HTX Plus D,2021,manual,diesel,1,19498.0,83878
+188000.0,Maruti Suzuki,Alto K10,VXi,2013,manual,petrol,2,5067.0,47897
+210000.0,Maruti Suzuki,Alto 800,Lxi,2015,manual,petrol,1,3996.0,34944
+358000.0,Maruti Suzuki,S-Presso,VXI Plus,2020,manual,petrol,1,6096.0,53094
+564000.0,Maruti Suzuki,Wagon R 1.0,VXI CNG,2022,manual,petrol+cng,1,9604.0,15945
+878000.0,Kia,Seltos,HTK Plus D,2020,manual,diesel,1,14951.0,65427
+384000.0,Hyundai,Xcent,S,2019,manual,petrol,1,6130.0,84638
+254000.0,Maruti Suzuki,Swift,LXI,2011,manual,petrol,1,18149.0,22566
+673000.0,Maruti Suzuki,Dzire,ZXI CNG,2022,manual,petrol+cng,1,11460.0,21339
+1195000.0,Mahindra,Thar,LX 4 STR Convertible Diesel AT 4WD,2021,automatic,diesel,1,20350.0,41648
+399000.0,Maruti Suzuki,Celerio,ZXI,2020,manual,petrol,1,6794.0,12470
+558000.0,Maruti Suzuki,Swift,VXI,2022,manual,petrol,1,9502.0,11508
+467000.0,Volkswagen,Polo,Comfortline 1.0L (P),2019,manual,petrol,1,7455.0,67660
+332000.0,Maruti Suzuki,Swift Dzire,VXI,2015,manual,petrol,1,6043.0,96536
+777000.0,Ford,EcoSport,Titanium + 1.5L Ti-VCT AT,2020,automatic,petrol,1,13231.0,35328
+239000.0,Maruti Suzuki,Alto 800,LXi,2020,manual,petrol,1,4271.0,94129
+382790.0,Maruti Suzuki,Swift Dzire,VXI,2015,manual,petrol,1,6967.0,56795
+843000.0,Mahindra,Bolero,B6 (O),2022,manual,diesel,1,14355.0,33690
+377000.0,Maruti Suzuki,Celerio,VXI,2021,manual,petrol,1,6420.0,52951
+680000.0,Honda,City,V 4th Gen,2021,manual,petrol,1,11580.0,42143
+715000.0,Tata,Altroz,XZ Plus 1.2,2022,manual,petrol,1,12176.0,4790
+431000.0,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,2019,manual,petrol,1,7339.0,37016
+746000.0,Toyota,Urban Cruiser,Mid Grade AT,2021,automatic,petrol,1,12703.0,37061
+429000.0,Maruti Suzuki,Baleno,Delta 1.2,2017,manual,petrol,1,7305.0,58521
+314000.0,Maruti Suzuki,Wagon R 1.0,VXI,2016,manual,petrol,1,5611.0,35634
+697000.0,Honda,WR-V,i-VTEC VX,2021,manual,petrol,1,11869.0,42473
+402000.0,Hyundai,Xcent,SX,2018,manual,petrol,1,6417.0,76366
+358000.0,Honda,Jazz,V Petrol,2016,manual,petrol,1,5715.0,61106
+230000.0,Maruti Suzuki,Alto 800,Lxi,2015,manual,petrol,1,4377.0,24333
+244000.0,Hyundai,i10,Sportz 1.1 Petrol,2015,manual,petrol,2,4441.0,48211
+568000.0,Maruti Suzuki,Swift,VXI,2021,manual,petrol,1,9672.0,18556
+425000.0,Maruti Suzuki,Ertiga,LXi,2015,manual,petrol,2,7736.0,33650
+371000.0,Hyundai,New Santro 1.1,Sportz MT,2020,manual,petrol,1,5923.0,49307
+318000.0,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,2014,manual,petrol,1,6824.0,21903
+407000.0,Maruti Suzuki,Wagon R 1.0,VXI + (O) AMT,2018,automatic,petrol,1,7274.0,20755
+329000.0,Maruti Suzuki,Celerio,ZXI,2016,manual,petrol,1,5602.0,26858
+384000.0,Maruti Suzuki,Ciaz,VXi+,2016,manual,petrol,2,6539.0,38494
+457000.0,Maruti Suzuki,Celerio,VXI,2022,manual,petrol,1,7782.0,15225
+468000.0,Ford,Figo,Titanium Petrol,2020,manual,petrol,1,7969.0,36706
+298000.0,Maruti Suzuki,Celerio,VXI,2015,manual,petrol,1,5424.0,23471
+229000.0,Maruti Suzuki,Alto 800,Lxi,2016,manual,petrol,1,4092.0,18283
+492000.0,Maruti Suzuki,Wagon R 1.2,ZXI,2021,manual,petrol,1,8378.0,18761
+341000.0,Maruti Suzuki,Swift Dzire,VXI,2014,manual,petrol,1,7318.0,56429
+982000.0,Tata,Nexon,XZ Plus S,2023,manual,petrol,1,16722.0,7489
+182000.0,Maruti Suzuki,Alto K10,VXi,2014,manual,petrol,2,3906.0,59964
+259000.0,Maruti Suzuki,Swift,VDi,2012,manual,diesel,1,9850.0,46772
+410000.0,Maruti Suzuki,S-Presso,VXI Plus,2021,manual,petrol,1,6982.0,9462
+1350000.0,Mahindra,XUV 3XO,AX7L 1.2L Petrol,2024,manual,petrol,1,22989.0,1886
+514000.0,Tata,Altroz,XT 1.2,2020,manual,petrol,1,8753.0,25819
+470000.0,Maruti Suzuki,Celerio,ZXI Plus,2021,manual,petrol,1,8003.0,12736
+260000.0,Hyundai,Eon,Sportz,2016,manual,petrol,1,4150.0,17734
+632000.0,Skoda,Rapid New,Ambition Petrol,2020,manual,petrol,1,10762.0,17278
+562000.0,Tata,Altroz,XZ 1.2,2020,manual,petrol,1,9570.0,44632
+408000.0,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,2019,manual,petrol,2,6948.0,39613
+697000.0,Maruti Suzuki,Baleno,Alpha,2021,manual,petrol,1,11869.0,11367
+323000.0,Maruti Suzuki,Swift,VXI,2013,manual,petrol,1,8706.0,15258
+705000.0,Honda,Jazz,ZX CVT,2022,automatic,petrol,2,11255.0,21274
+438000.0,Honda,City,VX,2015,manual,petrol,1,7972.0,47166
+506000.0,Renault,Triber,RXL,2022,manual,petrol,1,8616.0,28608
+424000.0,Tata,Tiago,Revotron XT,2020,manual,petrol,1,7220.0,29479
+683000.0,Hyundai,Grand i10 Nios,Asta 1.2 AMT,2023,automatic,petrol,1,11631.0,25926
+598000.0,Maruti Suzuki,Swift,VXI,2022,manual,petrol,1,10183.0,8468
+1205902.0,Mahindra,Thar,LX 4 STR Hard Top Petrol AT 4WD,2021,automatic,petrol,1,20535.0,11116
